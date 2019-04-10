@@ -1,0 +1,2 @@
+*.json filter=lfs diff=lfs merge=lfs -text
+*.avro filter=lfs diff=lfs merge=lfs -text
